@@ -1,0 +1,6 @@
+sym- File Containing Symbol Table
+lit- File Containing Literal Table
+pool- File Containing Pool Table
+ic- File Containing Intermediate Code
+inputcode- File Containing the Assembly Code as input to Pass1.
+Mnemonics- File Containing Mnemonics and their opcodes. Also an input to Pass1.
